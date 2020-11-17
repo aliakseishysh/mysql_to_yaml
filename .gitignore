@@ -1,0 +1,15 @@
+# venv
+.env
+.venv/
+Pipfile.lock
+
+
+# git
+.git/
+
+# local yaml files
+users.yaml
+
+# vscode
+.vscode/
+
